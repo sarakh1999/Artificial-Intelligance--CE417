@@ -1,4 +1,4 @@
-# Artificial-Intelligance--CE417
+# Artificial Intelligance CE417
 
 Artificial Intelligence Algorithms Implemented in Java and Python 
 
